@@ -61,7 +61,6 @@ java ParkingSystem
 
 import java.util.ArrayList;
 import java.util.Scanner;
-
 public class ParkingSystem {
 
     static int totalSlots, availableSlots;
@@ -145,6 +144,7 @@ public class ParkingSystem {
     }
 }
 
+
 ---
 
 ✅ Future Enhancements (Optional)
@@ -163,6 +163,7 @@ This project is free to use and modify.
 ---
 
 Feel free to contribute or raise issues!
+
 
 
 
